@@ -1,9 +1,9 @@
 server:
   port: 8534
 twilio:
-  accountSid: ACb4498e0806b69ff5c7b346d0e52b5042
-  authToken: e21eed016c1fdd2a36ee63490d66ae04
-  phoneNumber: +91 9938337734 
+  accountSid: your account ssid
+  authToken: auth toke
+  phoneNumber: your mobile number 
 image:
   upload-dir: /images
 spring:
